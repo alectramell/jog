@@ -1,0 +1,1 @@
+# JOG | Python Text Editor
